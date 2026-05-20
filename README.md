@@ -21,6 +21,13 @@
 - Electricity Consumption Analysis
 
 ## 📫 Connect With Me
+## 📊 GitHub Stats
+
+![Anika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anikachoudhary123&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Anikachoudhary123&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anikachoudhary123&layout=compact&theme=tokyonight)
 - GitHub: https://github.com/Anikachoudhary123
 
 <!--
