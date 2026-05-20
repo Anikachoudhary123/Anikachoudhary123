@@ -1,4 +1,4 @@
-  # Hi 👋 I'm Anika
+  # Hi 👋 I'm Anika Choudhary
 
 🎓 BSc Data Science Student  
 💻 Python | SQL | Pandas | NumPy  
