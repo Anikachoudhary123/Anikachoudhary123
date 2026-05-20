@@ -11,6 +11,17 @@
 - Pandas
 - NumPy
 - Machine Learning
+  ## 🚀 Skills
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+
+![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
+
+![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
+
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+
+![Machine Learning](https://img.shields.io/badge/MachineLearning-green?style=for-the-badge)
 
 ## 📌 Projects
 - Hotel Menu System
