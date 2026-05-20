@@ -52,19 +52,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 GitHub Stats
 
-![Anika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anikachoudhary123&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anikachoudhary123&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Anikachoudhary123&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 - 📧 Email: vanshcho48@gmail.com
