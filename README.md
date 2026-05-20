@@ -31,12 +31,46 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- # Hi 👋, I'm Anika Choudhary
+
+🌟 Beginner Programmer | 💻 Tech Learner | 🚀 Future Developer
+
+---
+
+## 👩‍💻 About Me
+- 🌱 I’m currently learning **Python & Web Development**
+- 💻 I’m working on **GitHub Projects**
+- 🎯 Goal: To get an internship in tech field
+- ⚡ Fun fact: I love learning new technology
+
+---
+
+## 🚀 Languages and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,java,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Anika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anikachoudhary123&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anikachoudhary123&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Anikachoudhary123&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+- 📧 Email: vanshcho48@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/yourprofile
+- 🐙 GitHub: https://github.com/Anikachoudhary123
+
+---
+
+⭐ Thanks for visiting my profile!
