@@ -19,6 +19,8 @@
 - Hotel Menu System
 - Student Performance Analysis
 - Electricity Consumption Analysis
+- hypothesis testing
+- stone paper scissor game
 
 ## 📫 Connect With Me
 ## 📊 GitHub Stats
