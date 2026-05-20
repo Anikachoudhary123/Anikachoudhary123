@@ -4,14 +4,6 @@
 💻 Python | SQL | Pandas | NumPy  
 📊 Interested in Data Analytics & Machine Learning  
 
-## 🚀 Skills
-- Python
-- SQL
-- Excel
-- Pandas
-- NumPy
-- Machine Learning
-  ## 🚀 Skills
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 
