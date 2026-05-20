@@ -27,7 +27,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Anikachoudhary123&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anikachoudhary123&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anikachoudhary123&layout=compact&theme=tokyonight) 
+![GitHub Streak](https://streak-stats.demolab.com?user=Anikachoudhary123&theme=tokyonight)
 <!--
 **Anikachoudhary123/Anikachoudhary123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
