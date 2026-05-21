@@ -25,9 +25,15 @@
 ## 📫 Connect With Me
 ## 📊 GitHub stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anikachoudhary123&show_icons=true&theme=tokyonight" />
+<## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikachoudhary123&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anikachoudhary123&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikachoudhary123&layout=compact&theme=radical" />
+</p>
 **Anikachoudhary123/Anikachoudhary123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
